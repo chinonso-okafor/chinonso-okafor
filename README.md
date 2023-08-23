@@ -1,4 +1,4 @@
-👋 Hello, I'm Chinonso!
+# 👋 Hello there, I'm Chinonso!
 
 🚀 About Me
 I'm a passionate explorer who recently embarked on an exciting journey from the world of Customer Success to the dynamic realm of Cloud Computing. With a background in fostering exceptional customer experiences, I've now set my sights on leveraging technology to create innovative solutions.
